@@ -1,0 +1,5 @@
+-- selecione todos os clientes com email cadastrados
+
+SELECT *
+FROM clientes
+WHERE FlEmail = 1
